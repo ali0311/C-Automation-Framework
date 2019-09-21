@@ -1,0 +1,18 @@
+1. Browser driver is : ChromeDriver
+2. Navigated to url : http://delaplex.cloudapp.net:8080/timesheet/showTimesheetDetails.do
+3. Test execution started..
+4. Set focus on  | By.XPath: //a[@href='showTimesheetDetails.do' and @class='active']
+5. Clicked click | By.XPath: //a[@href='showTimesheetDetails.do' and @class='active']
+6. Selected jkl combobox index 3 | By.XPath: //select[@name='projectId']
+7. 
+ERROR: Failed to enter '08-22-2019' in tlk textbox | By.XPath: //input[@id='calendar']
+8. 
+Exception: invalid element state: Element must be user-editable in order to clear it.
+  (Session info: chrome=76.0.3809.100)
+9. 
+StackTrace:    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Clear()
+   at Application.TestFramework.WebDriverBase.EnterTextJS(By elementLocator, String text, Boolean clearDefaultText, String logMsg) in F:\Learning Material\WebDriver\Application\Application\PageFunctions\WebDriverBase.cs:line 104
+10. Test Failed

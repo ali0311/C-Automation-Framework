@@ -1,0 +1,3 @@
+﻿All Web Pages and their respective web elements/page objects should be defined in their .cs file.
+First we need to categoriesed different web pages and store their .cs in particular folder.
+Ex. - Admin related pages can be stored in Admin Folder. 

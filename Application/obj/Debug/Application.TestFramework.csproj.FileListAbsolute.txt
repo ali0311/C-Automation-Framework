@@ -1,0 +1,43 @@
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\WebDriver\Application\Application\bin\Debug\Application.TestFramework.dll
+D:\WebDriver\Application\Application\bin\Debug\Application.TestFramework.pdb
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+D:\WebDriver\Application\Application\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\WebDriver\Application\Application\bin\Debug\WebDriver.dll
+D:\WebDriver\Application\Application\bin\Debug\WebDriver.Support.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+D:\WebDriver\Application\Application\bin\Debug\UiaComWrapper.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WebDriver\Application\Application\bin\Debug\Interop.UIAutomationClient.dll
+D:\WebDriver\Application\Application\bin\Debug\WebDriver.xml
+D:\WebDriver\Application\Application\bin\Debug\WebDriver.Support.xml
+D:\WebDriver\Application\Application\obj\Debug\Application.TestFramework.csproj.CoreCompileInputs.cache
+D:\WebDriver\Application\Application\obj\Debug\Application.TestFramework.csproj.CopyComplete
+D:\WebDriver\Application\Application\obj\Debug\Application.TestFramework.dll
+D:\WebDriver\Application\Application\obj\Debug\Application.TestFramework.pdb
+D:\WebDriver\Application\Application\obj\Debug\Application.TestFramework.csprojAssemblyReference.cache
+D:\WebDriver\Application\Application\obj\Debug\Application.TestFramework.csproj.ResolveComReference.cache
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\Application.TestFramework.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\Application.TestFramework.pdb
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\SeleniumExtras.WaitHelpers.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\WebDriver.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\WebDriver.Support.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\WebDriver.xml
+F:\Learning Material\WebDriver\Application\Application\bin\Debug\WebDriver.Support.xml
+F:\Learning Material\WebDriver\Application\Application\obj\Debug\Application.TestFramework.csproj.ResolveComReference.cache
+F:\Learning Material\WebDriver\Application\Application\obj\Debug\Application.TestFramework.csproj.CoreCompileInputs.cache
+F:\Learning Material\WebDriver\Application\Application\obj\Debug\Application.TestFramework.csproj.CopyComplete
+F:\Learning Material\WebDriver\Application\Application\obj\Debug\Application.TestFramework.dll
+F:\Learning Material\WebDriver\Application\Application\obj\Debug\Application.TestFramework.pdb
+F:\Learning Material\WebDriver\Application\Application\obj\Debug\Application.TestFramework.csprojAssemblyReference.cache

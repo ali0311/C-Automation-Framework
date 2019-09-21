@@ -1,0 +1,12 @@
+1. Browser driver is : ChromeDriver
+2. Navigated to url : https://www.goindigo.in/
+3. Test execution started..
+4. Set focus on  | By.LinkText: Login
+5. Clicked Login | By.LinkText: Login
+6. Entered '8983424000' in Mobile number textbox | By.XPath: //input[@name='memberLogin.MemberMobileNo']
+7. Entered 'XYZ@3456' in Password textbox | By.XPath: //input[@name='memberLogin.Password']
+8. Set focus on  | By.XPath: //span[@class='buttonText']
+9. Clicked Login | By.XPath: //span[@class='buttonText']
+10. Test execution completed
+
+11. Test Passed

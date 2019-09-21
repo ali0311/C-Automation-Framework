@@ -1,0 +1,1 @@
+﻿All reusable utilities like constants,  timestamp, random nos etc.

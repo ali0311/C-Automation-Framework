@@ -1,0 +1,4 @@
+1. Browser driver is : ChromeDriver
+2. Navigated to url : https://www.goindigo.in/
+3. Test execution started..
+4. Test Failed

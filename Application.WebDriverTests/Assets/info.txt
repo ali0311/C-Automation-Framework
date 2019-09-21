@@ -1,0 +1,2 @@
+﻿This Folder will have all set of Test Data.
+Further categorised test data can be store in their respective folders

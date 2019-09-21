@@ -1,0 +1,21 @@
+1. Browser driver is : ChromeDriver
+2. Navigated to url : http://delaplex.cloudapp.net:8080/timesheet/showTimesheetDetails.do
+3. Test execution started..
+4. 
+ERROR: The element By.LinkText: Login is not visible.
+5. 
+Exception: Timed out after 10 seconds
+6. 
+StackTrace:    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at Application.TestFramework.WebDriverBase.WaitForElementToBeVisible(By elementLocator, Int32 timeoutInSeconds) in F:\Learning Material\WebDriver\Application\Application\PageFunctions\WebDriverBase.cs:line 554
+7. 
+ERROR: Failed to click Login | By.LinkText: Login 
+8. 
+Exception: Timed out after 10 seconds
+9. 
+StackTrace:    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at Application.TestFramework.WebDriverBase.WaitForElementToBeVisible(By elementLocator, Int32 timeoutInSeconds) in F:\Learning Material\WebDriver\Application\Application\PageFunctions\WebDriverBase.cs:line 560
+   at Application.TestFramework.WebDriverBase.Click(By elementLocator, String logMsg) in F:\Learning Material\WebDriver\Application\Application\PageFunctions\WebDriverBase.cs:line 165
+10. Test Failed

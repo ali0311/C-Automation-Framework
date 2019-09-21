@@ -1,0 +1,6 @@
+1. Browser driver is : ChromeDriver
+2. Navigated to url : http://delaplex.cloudapp.net:8080/timesheet/showTimesheetDetails.do
+3. Test execution started..
+4. Test execution completed
+
+5. Test Passed

@@ -1,0 +1,16 @@
+D:\WebDriver\Application\Application\bin\Debug\Application.dll
+D:\WebDriver\Application\Application\bin\Debug\Application.pdb
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\WebDriver\Application\Application\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\WebDriver\Application\Application\bin\Debug\WebDriver.dll
+D:\WebDriver\Application\Application\bin\Debug\WebDriver.Support.dll
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\WebDriver\Application\Application\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\WebDriver\Application\Application\bin\Debug\WebDriver.xml
+D:\WebDriver\Application\Application\bin\Debug\WebDriver.Support.xml
+D:\WebDriver\Application\Application\obj\Debug\Application.Framework.csprojAssemblyReference.cache
+D:\WebDriver\Application\Application\obj\Debug\Application.Framework.csproj.CoreCompileInputs.cache
+D:\WebDriver\Application\Application\obj\Debug\Application.Framework.csproj.CopyComplete
+D:\WebDriver\Application\Application\obj\Debug\Application.dll
+D:\WebDriver\Application\Application\obj\Debug\Application.pdb

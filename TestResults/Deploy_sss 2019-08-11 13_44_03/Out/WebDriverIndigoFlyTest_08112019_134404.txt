@@ -1,0 +1,8 @@
+1. Browser driver is : ChromeDriver
+2. Navigated to url : https://www.goindigo.in/
+3. Test execution started..
+4. Set focus on  | By.LinkText: Login
+5. Clicked Login | By.LinkText: Login
+6. Test execution completed
+
+7. Test Passed
